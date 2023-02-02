@@ -1,7 +1,6 @@
 {
   "name": "clone_disneyplus",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "gulp",
@@ -24,5 +23,6 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.58.0"
-  }
+  },
+  "description": ""
 }
